@@ -9,7 +9,7 @@ export default function Home() {
         <title>static site</title>
       </Head>
       <div>Hello !</div>
-      <Link href="/about">about</Link>
+      <Link href="./about">about</Link>
     </div>
   )
 }
