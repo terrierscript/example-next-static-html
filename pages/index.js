@@ -13,6 +13,7 @@ export default function Home() {
       <a href="./about">about2.</a>
       <Link href="/about">about3</Link>
       <Link href="/about" as="/about">about4</Link>
+      <Link href="about" as="about">about4</Link>
     </div>
   )
 }
