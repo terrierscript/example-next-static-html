@@ -1,7 +1,7 @@
 module.exports = {
   target: 'serverless',
   exportTrailingSlash: true,
-  baseUrl: "/docs"
+  baseUrl: "https://terrierscript.github.io/example-next-static-html/"
   // exportPathMap: async function (
   //   defaultPathMap,
   //   { dev, dir, outDir, distDir, buildId }
