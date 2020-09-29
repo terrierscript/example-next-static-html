@@ -1,7 +1,7 @@
 module.exports = {
   target: 'serverless',
-  exportTrailingSlash: true,
   basePath: "/example-next-static-html",
+  // exportTrailingSlash: true,
   // assetPrefix: "/example-next-static-html/"
   // exportPathMap: async function (
   //   defaultPathMap,
