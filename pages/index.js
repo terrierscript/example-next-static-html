@@ -9,7 +9,10 @@ export default function Home() {
         <title>static site</title>
       </Head>
       <div>Hello !</div>
-      <Link href="./about">about</Link>
+      <Link href="./about">about.</Link>
+      <a href="./about">about2.</a>
+      <Link href="/about">about3</Link>
+      <Link href="/about" as="/about">about4</Link>
     </div>
   )
 }
